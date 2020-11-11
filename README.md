@@ -1,4 +1,4 @@
-###PPG filtering. 
+### PPG filtering. 
 
 A repository to filter the light intensity to BVP. 
 It contains the results of carried out experiments.
