@@ -1,14 +1,11 @@
 pandas
 numpy
 datetime
-time
 scipy
 matplotlib
-blandAltman
+pyCompare
 biosppy
 plotly
-ipywidgetsipywidgets
 ipywidgets
 IPython
-warnings
 voila
